@@ -1,0 +1,13 @@
+name = "Hinode"
+license = "MIT"
+licenselink = "https://github.com/siva_ratnakar/blog/blob/main/LICENSE"
+description = "Came here by chance! Then don’t miss knowing something which you might carry with you throughout your life. Know about Life. Just Life."
+homepage = "https://gethinode.com"
+demosite = "https://demo.gethinode.com"
+tags = ["blog", "documentation", "minimal", "modern", "customizable", "search", "bootstrap"]
+features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "versioned documentation"]
+min_version = "0.110.0"
+
+[author]
+  name = "Siva Ratnakar"
+  homepage = "https://github.com/markdumay"
