@@ -1,6 +1,6 @@
 ---
-author: Katheryn Fox
-title: Home of Katheryn Fox
-date: 2021-07-15
+author: Siva Ratnakar
+title: The Curious Explorer
+date: 2023-07-15
 ---
 
