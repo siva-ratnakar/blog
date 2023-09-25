@@ -11,7 +11,7 @@ DefaultContentLanguageInSubdir = false
     languageName = "English"
     [languages.en.params]
       introTitle = "The Curious Explorer"
-      introSubtitle = "Welcome!! Explore the world with me."
+      introSubtitle = "Welcome!!  Explore the world with me."
       introPhoto = "/me-on-car.webp"
       logo = "/logo.svg"
 
@@ -23,13 +23,6 @@ DefaultContentLanguageInSubdir = false
         name = "Life"
         url = "/life/"
         weight = 2
-
-
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "/about/"
-        weight = 3
-
 
 [params]
   # Enable the darkmode toggle in header
@@ -62,7 +55,7 @@ DefaultContentLanguageInSubdir = false
   ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
-  frontBundle = "blog"
+  frontBundle = ["blog","life"]
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
@@ -107,35 +100,29 @@ DefaultContentLanguageInSubdir = false
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything biology and gene sequencing."
+  description = "I like to simplify Biology."
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/siva_ratnakar"
+    url = "https://twitter.com/SivaRatnakar"
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://linkedin.com/in/siva_ratnakar"
+    url = "https://linkedin.com/in/siva-ratnakar"
   [[params.homepage.social.icons]]
     website = "telegram"
-    url = "https://t.me/"
+    url = "https://t.me/siva_ratnakar"
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/siva-ratnakar"
   [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
     website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
+    url = "https://scholar.google.com/citations?user=CTIJ3LQAAAAJ&hl=en"
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
+    url = "https://instagram.com/siva_ratnakar"
   [[params.homepage.social.icons]]
     website = "facebook"
-    url = "https://facebook.com"
+    url = "https://facebook.com/sivaratnakar.immadi"
   
 [[menu.main]]
   name = "About"
