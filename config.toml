@@ -24,6 +24,11 @@ DefaultContentLanguageInSubdir = false
         url = "/life/"
         weight = 2
 
+[module]
+[[module.mounts]]
+    source = 'static/img'
+    target = 'assets/img'
+
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
