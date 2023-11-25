@@ -10,17 +10,17 @@ draft: false
 <br><br>
 
 <center>
-A beautiful dream with excitement brimmed within,
-The path though slim, held hope evergreen.
-Curiously I choose the next drill, 
-aware I'm dancing to destiny's will.
-An unseen hand guiding every step ahead, 
-unfloding a new narrative to the heart's content.
-Now I took flight to the realm unknown,
-but filled with brightest colours known
-All that stands between is the veil of faith
-that thy hand would carry all my weight.
-With strong will and a calm smile, I stand agile,
+A beautiful dream with excitement brimmed within,<br>
+The path though slim, held hope evergreen.<br>
+Curiously I choose the next drill, <br>
+aware I'm dancing to destiny's will.<br>
+An unseen hand guiding every step ahead,<br> 
+unfloding a new narrative to the heart's content.<br>
+Now I took flight to the realm unknown,<br>
+but filled with brightest colours known<br>
+All that stands between is the veil of faith<br>
+that thy hand would carry all my weight.<br>
+With strong will and a calm smile, I stand agile,<br>
 ready to embrace and cross any mile.
 </center>
 With these thoughts, I started my journey from my home country India to Switzerland for my PhD studies.
