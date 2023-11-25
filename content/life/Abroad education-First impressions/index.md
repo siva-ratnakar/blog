@@ -21,7 +21,7 @@ but filled with brightest colours known<br>
 All that stands between is the veil of faith<br>
 that thy hand would carry all my weight.<br>
 With strong will and a calm smile, I stand agile,<br>
-ready to embrace and cross any mile.
+ready to embrace and cross any mile.<br>
 </center>
 With these thoughts, I started my journey from my home country India to Switzerland for my PhD studies.
 The dream of doing a PhD abroad dates back to the time when I did not keep track of time when I was restless and dared to dream fiction. Yes, it was during high school, the days when the future was filled with unseen bright colours. And right now, this has become a concrete jewel. So here I am, to share my initial experiences.
