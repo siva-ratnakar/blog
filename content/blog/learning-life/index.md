@@ -1,0 +1,23 @@
+---
+author: Siva Ratnakar
+title: AlphaFold-Learning Life
+date: 2024-01-01
+description: 
+tags: [TBiology, Learning, AlphaFold, AI]
+thumbnail: img/alphafold.png
+draft: false
+---
+
+From babies to a kid, from a kid to an adult, humans grow and learn at every phase. The learning we have defines us. But did you ever wonder how learning happens? Dear explorers, today let us look deep into this process of learning and how learning leads to understanding. And when we mean learning, what are we learning? The obvious and vague answer is the world.
+
+While there are many subjects one can learn namely music, spirituality, cooking, or as mundane as language, all these are merely an understanding of what we seek from our senses. Our senses pick up huge amounts of data and each person processes it differently to build themselves. A cross might be insignificant for an illiterate, but a spiritual seeker gives more weight to it. Our minds always take in more input, add preferences to each of them and process them to define ourselves. When a particular trait seems more rewarding, we add more weight to it.
+In my previous posts, we have already explored learning and related topics. Right now, we shall see how we humans have made machines learn. Humans are limited to our memory, processing, and time. But we have the ingenuity to make machines to do the job. Did you ever feel that you understand something so well that you could predict or foresee something? Maybe you know someone so good that you know how they react to a circumstance? This is the kind of learning that machines are capable of doing. But better.
+
+We are talking about machines understanding life. As we know, life is built from DNA sequences that translate to protein sequences and proteins have a specific structure. The structure of the protein lies in its sequence but we don’t know how. Consider it something similar to how the language or a constitution impacts culture. Imagine if a machine could understand a culture just based on its written constitution. For the machine to learn, we can provide the constitution, or language as the input. Humans understand culture in many ways by interacting with people, but just by reading the words, one cannot confidently conclude the structure of the culture. The best way to understand is by clicking pictures of people and showing the machine. This way, we could make the machine learn culture from language.
+
+Trying to guess the picture just with the sequence has been a daunting task. Scientists have been taking a lot of pictures of these protein structures for decades. Now we created the computational resources where we can make the machines understand. So we gave the machine all the sequences and the structures we captured. For every good guess, we appreciated the computer and did not allow bad guesses. AlphaFold 2 is the first learning model to ever truly understand how sequences relate to the structure. For me, this is a huge success not because of its implications, but just to imagine how a machine could understand seemingly unrelated letters and provide a perfect picture. Other models have come closer, but they mostly rely on what these sequences mean. I think what makes AlphaFold 2 better is that this model tries to understand the neighbours of each letter, how similar sentences shape the meaning, and a lot of computational resources Google’s deep mind provided.
+
+# Is AlphaFold similar to ChatGPT?
+
+You would have noticed how your phone keyboard auto-fill could sometimes predict your next word as you type. This works by statistically calculating your most likely next word, and the next word thereafter. We know that there is a pattern in your language, and a few words are more likely than others. The GPT language model is just an enhanced version of your keyboard auto-fill function, by not just predicting, but learning language, and understanding it. A similar approach was taken to protein sequences and these are called protein language models that understand a sequence. AlphaFold is different from protein language models as it tries to understand how sentences make meaning rather than making a sentence.
+Having looked at the rate of rise in AI models, one might ask if AI can someday truly understand life. While AI tries to understand the shape of life molecules, it cannot understand a lot of more nitty-gritty of molecular interaction or how this randomness is directed into life. People put down AI by saying that AI understands what we can, but better. The fact is, sequence structure relation is truly an exaggeration of our understanding, but AlphaFold is a game-changer to seamlessly understand this phenomenon. So the question remains, can AI understand life? Time should tell.
