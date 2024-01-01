@@ -14,6 +14,7 @@ DefaultContentLanguageInSubdir = false
       introSubtitle = "Welcome!!  Explore the world with me."
       introPhoto = "/me-on-car.webp"
       logo = "/logo.svg"
+      permalink = "https://sivaratnakar.com/"
 
     [[languages.en.menu.main]]
         name = "Bio Blog"
@@ -35,9 +36,6 @@ DefaultContentLanguageInSubdir = false
   
   # Enable search in header
   enableSearch = true
-
-  #main sections - used to display articles on homepage
-  mainSections = ["blog", "life"]
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content

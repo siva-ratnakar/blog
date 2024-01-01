@@ -6,13 +6,13 @@
 
   {{ range $mainSections }} 
     {{ $sectionName := index ($mainSections) 0 }} 
-    <h2>{{ $sectionName }}</h2> 
+    <!-- <h2>{{ $sectionName }}</h2>  -->
 
   {{ end }}
 
-  {{ range $pages }}
+  <!-- {{ range $pages }}
     {{ .Section }}
-  {{ end }}
+  {{ end }} -->
   <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
     {{ range first 6 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
       {{- partial "blog-card.html" . -}}
