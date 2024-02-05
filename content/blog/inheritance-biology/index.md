@@ -1,10 +1,10 @@
 ---
 author: Siva Ratnakar
 title: Inheritance Biology
-date: 2022-01-12
+date: 2022-02-22
 description: 
-tags: [Applications, Biology, Science, Statistics]
-thumbnail: img/flaw.jpg
+tags: []
+thumbnail: img/inheritance.jpg
 draft: false
 ---
 

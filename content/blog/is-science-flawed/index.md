@@ -1,10 +1,10 @@
 ---
 author: Siva Ratnakar
-title: Is Science Flawed?
-date: 2022-02-22
+title: Is science flawed?
+date: 2022-01-12
 description: 
-tags: []
-thumbnail: img/inheritance.jpg
+tags: [Applications, Biology, Science, Statistics]
+thumbnail: img/flaw.jpg
 draft: false
 ---
 
