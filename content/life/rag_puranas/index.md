@@ -1,7 +1,7 @@
 ---
 author: Siva Ratnakar
 title: A talk with ancient Indian Culture
-date: 2023-09-08
+date: 2025-06-21
 description: 
 tags: []
 thumbnail: img/rag_system.png
