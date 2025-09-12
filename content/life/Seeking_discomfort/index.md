@@ -1,6 +1,6 @@
 ---
 author: Siva Ratnakar
-title: Seeking Discomfort ?
+title: Seeking Discomfort
 date: 2025-09-12
 description: 
 tags: []
