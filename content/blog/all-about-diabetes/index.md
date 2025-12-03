@@ -6,7 +6,7 @@ description:
 tags: [Review, Diabetes,Type-2 Diabetes,Genetics, Lifestyle changes, Continous Glucose Monitoring]
 thumbnail: img/diabetes.png
 draft: false
-
+---
 
 The dangers of diabetes, the daunting medical costs, and its further medical implications are something that many are well aware of. Some of you might pride yourself in being more aware of the mechanisms of diabetes, and some might barely have an idea. Whatever category you belong to, your curious explorer challenges you today. I welcome you to seek the knowledge that could maybe empower you, or even make you healthier. This is the one place you need to go to get a wholesome understanding of Type-2 Diabetes, where I talk and explore the theoretical concepts and practical data supporting it. Join me in this exploration of a better lifestyle.
 
