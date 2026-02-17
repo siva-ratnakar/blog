@@ -12,7 +12,7 @@ What is the difference between: tears and despair, smiles and laughs, pain and t
 
 The latter seem to be an extreme form of the former. But isn't an extreme just a reinforcement of the ordinary? Doesn't this familiarity comfort the extreme, and doesn't this loss of comfort truly make it a terror?
 
-Sorry. Let me break it down.😅
+Sorry. Let me break it down.
 
 Nothing distinguishes despair from tears. Only later does the stream of tears run dry by the blaze of the pain, turning it into despair. Yet strangely, healing, but not binding. A game of pain not making tears go in vain.
 
