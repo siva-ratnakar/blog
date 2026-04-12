@@ -7,8 +7,6 @@ tags: []
 thumbnail: img/love_origin.png
 draft: false
 ---
-<br><br>
-
 
 In the long stretch of past lives, was this thirst always hidden?
 Only now, in the sparkle of her smile and shade of her eyes,
