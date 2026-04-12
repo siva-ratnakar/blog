@@ -9,7 +9,6 @@ draft: false
 ---
 <br><br>
 
-![Origin of love](/img/love_origin.png)
 
 In the long stretch of past lives, was this thirst always hidden?
 Only now, in the sparkle of her smile and shade of her eyes,
