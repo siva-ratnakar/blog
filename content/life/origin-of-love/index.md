@@ -19,7 +19,7 @@ urged by an unknown call to rush for something<br>
 This restlessness in the chest is but a sculptor's hand,<br>
 Carving a soul into the very walls where your breath began.<br>
 Like the heavens answering to steal this restless heart,<br>
-With the melody of a blissful hym, something new is born<br>
+With the melody of a blissful hymn, something new is born<br>
 
 Can your eyes ever see the wind that carries the scent of the jasmine?<br>
 Can the shore ever measure the depth of the sea’s longing?<br>
@@ -29,7 +29,7 @@ Your life did not know this melody until the stir of something new.<br>
 To a tiny sprout drowning in its own thirst,<br>
 She is a raindrop that makes the petals burst,<br>
 The very drop shall become the dawn of spring,<br>
-Rising as the destiny you never knew your heat could bring; maybe it's love.<br>
+Rising as the destiny you never knew your heart could bring; maybe it's love.<br>
 
 Unless you ask the burning forge,<br>
 The earth cannot prove it is a diamond and not mere clay.<br>
